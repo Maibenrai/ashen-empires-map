@@ -3079,7 +3079,21 @@ export const mapMarkers = {
     },
 
     // City: Teylon Innkeeper
-
+    {
+      category: "npc",
+      type: "overworld_inn_keeper",
+      tooltip: "Teylon Innkeeper",
+      region: "Highlands",
+      place: "Teylon",
+      details: {
+        title: "Teylon Innkeeper",
+        coordinates: { x: 2470, y: 1665 },
+        image: "images/markers/Teylon_Innkeeper.png",
+        lore: "More information about Teylon Innkeeper is coming soon.",
+        npcs: [],
+        links: [],
+      },
+    },
     // City: Syldural Innkeeper
 
     // Region: 11 - Tundria Innkeeper
