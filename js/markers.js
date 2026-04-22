@@ -11531,6 +11531,22 @@ export const mapMarkers = {
         links: [],
       },
     },
+    {
+      category: "npc",
+      type: "overworld_shop_farming",
+      tooltip: "Grayson's Farming Shop",
+      region: "Hearwood Coast",
+      place: "Valmond",
+      details: {
+        title: "Grayson's Farming Shop",
+        coordinates: { x: 2482, y: 1649 },
+        image: "images/markers/Grayson's_Farming_Shop.png",
+        lore: "More information about Grayson's Farming Shop is coming soon.",
+        currency: "gold",
+        npcs: [],
+        links: [],
+      },
+    },
     // City: Syldrual Shops
     // Can be found in the underworld-markers.js file
 
