@@ -5878,7 +5878,7 @@ export const mapMarkers = {
       type: "overworld_bank",
       tooltip: "Bank",
       region: "Heartwood Coast",
-      place: "Valmond",
+      place: "Teylon",
       details: {
         title: "Bank",
         coordinates: { x: 2501, y: 1670 },
@@ -11453,6 +11453,22 @@ export const mapMarkers = {
     },
 
     // City: Teylon Shops
+    {
+      category: "npc",
+      type: "overworld_shop_leather",
+      tooltip: "Jaran's Leathers",
+      region: "Hearwood Coast",
+      place: "Teylon",
+      details: {
+        title: "Jaran's Leathers",
+        coordinates: { x: 2530, y: 1643 },
+        image: "images/markers/Jaran's_Leathers.png",
+        lore: "More information about Jaran's Leathers is coming soon.",
+        currency: "gold",
+        npcs: [],
+        links: [],
+      },
+    },
 
     // City: Syldrual Shops
     // Can be found in the underworld-markers.js file
