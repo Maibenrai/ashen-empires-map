@@ -5873,6 +5873,21 @@ export const mapMarkers = {
     },
 
     // City: Teylon Bank
+    {
+      category: "npc",
+      type: "overworld_bank",
+      tooltip: "Bank",
+      region: "Heartwood Coast",
+      place: "Valmond",
+      details: {
+        title: "Bank",
+        coordinates: { x: 2501, y: 1670 },
+        image: "images/markers/Lopal_Bank.png",
+        lore: "More information about Bank is coming soon.",
+        npcs: [],
+        links: [],
+      },
+    },
 
     // City: Syldural Bank
 
