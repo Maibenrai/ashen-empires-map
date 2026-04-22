@@ -11563,6 +11563,22 @@ export const mapMarkers = {
         links: [],
       },
     },
+    {
+      category: "npc",
+      type: "overworld_shop_pub",
+      tooltip: "Cynthia's Pub",
+      region: "Hearwood Coast",
+      place: "Teylon",
+      details: {
+        title: "Cynthia's Pub",
+        coordinates: { x: 2518, y: 1640 },
+        image: "images/markers/Cynthia's_Pub.png",
+        lore: "More information about Cynthia's Pub is coming soon.",
+        currency: "gold",
+        npcs: [],
+        links: [],
+      },
+    },
     // City: Syldrual Shops
     // Can be found in the underworld-markers.js file
 
