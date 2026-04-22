@@ -11501,6 +11501,22 @@ export const mapMarkers = {
         links: [],
       },
     },
+    {
+      category: "npc",
+      type: "overworld_shop_blacksmith",
+      tooltip: "Eldrath's Blacksmith Shop",
+      region: "Hearwood Coast",
+      place: "Teylon",
+      details: {
+        title: "Eldrath's Blacksmith Shop",
+        coordinates: { x: 2488, y: 1689 },
+        image: "images/markers/Eldrath's_Blacksmith_Shop.png",
+        lore: "More information about Eldrath's Blacksmith Shop is coming soon.",
+        currency: "gold",
+        npcs: [],
+        links: [],
+      },
+    },
     // City: Syldrual Shops
     // Can be found in the underworld-markers.js file
 
