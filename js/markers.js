@@ -11469,7 +11469,22 @@ export const mapMarkers = {
         links: [],
       },
     },
-
+    {
+      category: "npc",
+      type: "overworld_shop_blacksmith",
+      tooltip: "El'Layel's Blacksmith Shop",
+      region: "Hearwood Coast",
+      place: "Teylon",
+      details: {
+        title: "El'Layel's Blacksmith Shop",
+        coordinates: { x: 2493, y: 1689 },
+        image: "images/markers/El'Layel's_Blacksmith_shop.png",
+        lore: "More information about El'Layel's Blacksmith Shop is coming soon.",
+        currency: "gold",
+        npcs: [],
+        links: [],
+      },
+    },
     // City: Syldrual Shops
     // Can be found in the underworld-markers.js file
 
