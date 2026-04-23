@@ -190,8 +190,12 @@ export const markerStyles = {
     icon: "icons/ancient-portal.svg",
     color: "#20B2AA", // LightSeaGreen
   },
+  overworld_altar_good: {
+    icon: "icons/altar.svg",
+    color: "#20B2AA", // LightSeaGreen
+  },
 
-  // Spawns
+    // Spawns
   overworld_spawn_good: {
     icon: "icons/death-spawn.svg",
     color: "#28a745", // A flat, visible green
@@ -5350,6 +5354,25 @@ export const mapMarkers = {
         links: [],
       },
     },
+
+    // Region: 10 - Heartwood Coast
+    // City: Teylon Altar
+    {
+      category: "altar",
+      type: "overworld_altar_good",
+      tooltip: "Altar of Offering",
+      region: "Heartwood Coast",
+      place: "Teylon",
+      details: {
+        title: "Altar of Offering",
+        coordinates: { x: 2519, y: 1691 },
+        image: "images/icons/altar.svg",
+        lore: "In Temple of Arna",
+        npcs: [],
+        links: [],
+      },
+    },
+
     // Sub-Category Bank
     //Valinor Island Bank
 
