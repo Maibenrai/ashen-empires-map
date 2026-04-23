@@ -13224,6 +13224,21 @@ export const mapMarkers = {
     },
 
     // City: Teylon Spawns
+    {
+      category: "spawn",
+      type: "overworld_spawn_good",
+      tooltip: "Good Spawn Gate",
+      region: "Heartwood Coast",
+      place: "Teylon",
+      details: {
+        title: "Good Spawn Gate",
+        coordinates: { x: 2520, y: 1670 },
+        image: "images/markers/Teylon_Good_Spawn_Gate.png",
+        lore: "More information about Good Spawn Gate is coming soon.",
+        npcs: [],
+        links: [],
+      },
+    },
 
     // City: Sydrual Spawns
 
