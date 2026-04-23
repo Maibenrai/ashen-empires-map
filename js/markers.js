@@ -5039,7 +5039,23 @@ export const mapMarkers = {
       },
     },
 
-    
+    // Region: 10 - Heartwood Coast Town Wizard of Insight
+    // City: Teylon Town Wizard of Insight
+    {
+      category: "npc",
+      type: "overworld_town_wizard_of_insight",
+      tooltip: "Town Wizard of Insight (Teylon)",
+      region: "Hearwood Coast",
+      place: "Teylon",
+      details: {
+        title: "Town Wizard of Insight",
+        coordinates: { x: 2457, y: 1678 },
+        image: "images/markers/Teylon_Town_Wizard_of_Insight.png",
+        lore: "More information about Teylon Town Wizard of Insight is coming soon.",
+        npcs: [],
+        links: [],
+      },
+    },
 
     // Sub-Category Game of Chance
     // Island: Lotor's Summer Palace Game of Chance
