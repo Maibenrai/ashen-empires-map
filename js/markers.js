@@ -11579,6 +11579,23 @@ export const mapMarkers = {
         links: [],
       },
     },
+    {
+      category: "npc",
+      type: "overworld_shop_jewelry",
+      tooltip: "Althas's Jewelry Shop",
+      region: "Hearwood Coast",
+      place: "Teylon",
+      details: {
+        title: "Althas's Jewelry Shop",
+        coordinates: { x: 2455, y: 1666 },
+        image: "images/markers/Althas's_Jewelry_Shop.png",
+        lore: "More information about Althas's Jewelry Shop is coming soon.",
+        currency: "gold",
+        npcs: [],
+        links: [],
+      },
+    },
+
     // City: Syldrual Shops
     // Can be found in the underworld-markers.js file
 
