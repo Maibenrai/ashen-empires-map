@@ -11650,6 +11650,22 @@ export const mapMarkers = {
         links: [],
       },
     },
+    {
+      category: "npc",
+      type: "overworld_shop_provisioner",
+      tooltip: "Gywnnelle's Provisioner Shop",
+      region: "Hearwood Coast",
+      place: "Teylon",
+      details: {
+        title: "Gywnnelle's Provisioner Shop",
+        coordinates: { x: 2505, y: 1674 },
+        image: "images/markers/Gywnnelle's_Provisioner_Shop.png",
+        lore: "More information about Gywnnelle's Provisioner Shop is coming soon.",
+        currency: "gold",
+        npcs: [],
+        links: [],
+      },
+    },
 
     // City: Syldrual Shops
     // Can be found in the underworld-markers.js file
